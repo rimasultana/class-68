@@ -7,5 +7,8 @@ function Person(first, last, age, eye) {
   
   // Create a Person object
   const myFather = new Person("John", "Doe", 50, "blue");
-  
+  const myMother = new Person("Rupa", "khatun", 40);
+
+
 console.log(myFather);
+console.log(myMother);
